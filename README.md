@@ -1,0 +1,26 @@
+## Hi there 👋
+
+I am the Co-founder and Head Brewer at Malta Brava, an independent craft brewery based in Encarnacion, Paraguay. 
+My journey into the world of craft beer began while I was pursuing my engineering studies, starting as a passion project that quickly evolved into a full-fledged business.
+
+My technical background includes a formal degree as a Higher Technician in Information Systems / Systems Analyst. 
+Additionally, I have an extensive academic foundation in Computer Engineering, having completed five years of advanced coursework at Universidad Catolica (UCI) and further multi-year studies at the prestigious University of Buenos Aires (UBA). 
+This deep technical and problem-solving mindset is something I apply daily to the science and art of brewing.
+
+At Malta Brava, I lead production, recipe development, and quality control, combining my passion for technology and process with the craft of brewing.
+
+
+<!--
+**lucasguerra91/lucasguerra91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
