@@ -53,7 +53,7 @@ I pick the tool for the problem, but I keep my stack tight on purpose — I'd ra
 🍻 **Beer Sommelier** — Centro de Cata, Buenos Aires
 ⚖️ **BJCP Judge** — candidate (sommelier course done, sitting the exam next)
 🏭 **Diplomatura en Microcervecerías** — UTN Buenos Aires
-🛠️ **Computer Engineering** — 7 years of it (5 at UCA Encarnación, almost 3 at UBA), no diploma. Almost-engineer, self-taught the rest.
+🛠️ **Computer Engineering** — 7 years of it (5 at UCI Encarnación, almost 3 at UBA), no diploma. Almost-engineer, self-taught the rest.
 
 ---
 
